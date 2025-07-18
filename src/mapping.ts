@@ -10,10 +10,9 @@ export const mapping: Mapping = {
     },
   },
   Project: {
-    typeIds: [Id.Id('12345678-1234-4567-8901-123456789012')],
+    typeIds: [Id.Id('484a18c5-030a-499c-b0f2-ef588ff16d50')],
     properties: {
-      name: Id.Id('87654321-4321-4567-8901-210987654321'),
-      description: Id.Id('11223344-5566-4789-9012-345678901234'),
+      name: Id.Id('a126ca53-0c8e-48d5-b888-82c734c38935'),
     },
   },
 };

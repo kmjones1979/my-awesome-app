@@ -7,5 +7,4 @@ export class AcademicField extends Entity.Class<AcademicField>('AcademicField')(
 
 export class Project extends Entity.Class<Project>('Project')({
   name: Type.Text,
-  description: Type.Text,
 }) {}
